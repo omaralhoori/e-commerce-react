@@ -30,7 +30,7 @@ class Directory extends Component {
                 },
                 {
                   title: 'womens',
-                  imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+                  imageUrl: 'https://media.istockphoto.com/id/855095958/photo/womens-clothing-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=IU2y7Y7Q0kvAiCv3lxP1peiTkx1-dmp_7yPGSZIozjw=',
                   size: 'large',
                   id: 4,
                   linkUrl: 'shop/womens'
